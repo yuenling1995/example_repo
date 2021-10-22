@@ -3,10 +3,7 @@ title: "Simple document"
 author: Yuen
 date: 10/22/2021
 output: 
-  github_document:
-    toc: true
-    toc_float: true
-    code_folding: hide
+  github_document
 ---
 it can also be a pdf/word document (the "output" section above)
 
